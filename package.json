@@ -1,16 +1,1 @@
-{
-  "name": "host365-backend",
-  "version": "1.0.0",
-  "private": true,
-  "type": "commonjs",
-  "scripts": {
-    "seed": "node seed.js",
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "better-sqlite3": "^11.7.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.0",
-    "openai": "^4.70.0"
-  }
-}
+ewogICJuYW1lIjogImhvc3QzNjUtYmFja2VuZCIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJwcml2YXRlIjogdHJ1ZSwKICAidHlwZSI6ICJjb21tb25qcyIsCiAgInNjcmlwdHMiOiB7CiAgICAic2VlZCI6ICJub2RlIHNlZWQuanMiLAogICAgInN0YXJ0IjogIm5vZGUgc2VydmVyLmpzIgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJiZXR0ZXItc3FsaXRlMyI6ICJeMTEuNy4wIiwKICAgICJjb3JzIjogIl4yLjguNSIsCiAgICAiZXhwcmVzcyI6ICJeNC4yMS4wIiwKICAgICJvcGVuYWkiOiAiXjQuNzAuMCIKICB9Cn0=
